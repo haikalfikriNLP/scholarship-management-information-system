@@ -112,13 +112,3 @@ dari Sistem Informasi Manajemen Beasiswa.
 
 ---
 
-## Struktur Repository
-
-```text
-sistem-informasi-manajemen-beasiswa/
-├── README.md
-├── assets/
-│   └── preview_app.png
-├── database/
-├── src/
-└── docs/
